@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-labelledby="title desc">
+<title id="title">Стек сайта Cue</title><desc id="desc">HTML, CSS и JavaScript</desc>
+<rect width="1200" height="240" rx="12" fill="#f4f3ef"/>
+<g fill="#22211f" font-family="Arial, sans-serif"><text x="48" y="58" font-size="17">Технологии сайта</text><text x="48" y="190" font-size="14" fill="#686762">Статический сайт · без сборки</text></g>
+<g font-family="Arial, sans-serif" font-size="28" fill="#22211f">
+<rect x="48" y="88" width="300" height="68" rx="8" fill="#fff" stroke="#d7d5cf"/><circle cx="82" cy="122" r="13" fill="#ed350d"/><text x="112" y="132">HTML</text><text x="250" y="130" font-size="14" fill="#686762">структура</text>
+<rect x="368" y="88" width="300" height="68" rx="8" fill="#fff" stroke="#d7d5cf"/><circle cx="402" cy="122" r="13" fill="#ed350d"/><text x="432" y="132">CSS</text><text x="567" y="130" font-size="14" fill="#686762">оформление</text>
+<rect x="688" y="88" width="464" height="68" rx="8" fill="#fff" stroke="#d7d5cf"/><circle cx="722" cy="122" r="13" fill="#ed350d"/><text x="752" y="132">JavaScript</text><text x="1000" y="130" font-size="14" fill="#686762">интерактивность</text></g></svg>
